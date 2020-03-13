@@ -13,8 +13,8 @@ namespace WebApi_Mobills.Repositories
 
         public DespesaRepository()
         {
-            Create(new Despesa { Descricao = "Uber", Valor = 15.80m, Data = new DateTime(), Pago = true});
-            Create(new Despesa { Descricao = "iFood", Valor = 10.80m, Data = new DateTime(), Pago = false });
+            Create(new Despesa { Descricao = "Uber", Valor = 15.80m, Data = DateTime.Today, Pago = true});
+            Create(new Despesa { Descricao = "iFood", Valor = 10.80m, Data = DateTime.Today, Pago = false });
         }
 
         public Despesa Create(Despesa despesa)
