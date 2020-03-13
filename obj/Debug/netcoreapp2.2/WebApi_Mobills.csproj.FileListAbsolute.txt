@@ -1,0 +1,16 @@
+C:\Users\iuryc\source\repos\WebApi_Mobills\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\iuryc\source\repos\WebApi_Mobills\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\iuryc\source\repos\WebApi_Mobills\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\iuryc\source\repos\WebApi_Mobills\bin\Debug\netcoreapp2.2\WebApi_Mobills.deps.json
+C:\Users\iuryc\source\repos\WebApi_Mobills\bin\Debug\netcoreapp2.2\WebApi_Mobills.runtimeconfig.json
+C:\Users\iuryc\source\repos\WebApi_Mobills\bin\Debug\netcoreapp2.2\WebApi_Mobills.runtimeconfig.dev.json
+C:\Users\iuryc\source\repos\WebApi_Mobills\bin\Debug\netcoreapp2.2\WebApi_Mobills.dll
+C:\Users\iuryc\source\repos\WebApi_Mobills\obj\Debug\netcoreapp2.2\WebApi_Mobills.csprojAssemblyReference.cache
+C:\Users\iuryc\source\repos\WebApi_Mobills\obj\Debug\netcoreapp2.2\WebApi_Mobills.RazorAssemblyInfo.cache
+C:\Users\iuryc\source\repos\WebApi_Mobills\obj\Debug\netcoreapp2.2\WebApi_Mobills.RazorAssemblyInfo.cs
+C:\Users\iuryc\source\repos\WebApi_Mobills\obj\Debug\netcoreapp2.2\WebApi_Mobills.AssemblyInfoInputs.cache
+C:\Users\iuryc\source\repos\WebApi_Mobills\obj\Debug\netcoreapp2.2\WebApi_Mobills.AssemblyInfo.cs
+C:\Users\iuryc\source\repos\WebApi_Mobills\obj\Debug\netcoreapp2.2\WebApi_Mobills.RazorTargetAssemblyInfo.cache
+C:\Users\iuryc\source\repos\WebApi_Mobills\bin\Debug\netcoreapp2.2\WebApi_Mobills.pdb
+C:\Users\iuryc\source\repos\WebApi_Mobills\obj\Debug\netcoreapp2.2\WebApi_Mobills.dll
+C:\Users\iuryc\source\repos\WebApi_Mobills\obj\Debug\netcoreapp2.2\WebApi_Mobills.pdb
